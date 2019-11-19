@@ -1,0 +1,3 @@
+addresses go here,
+formatted like this,
+or even like this, if you want to, you can format them however you wish, but you must only use commas for different addresses,
